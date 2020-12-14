@@ -2632,11 +2632,11 @@ button:disabled,
 }
 
 .subpage #header {
-    background: #5b6c91;
+    background: rgb(28, 28, 122);
     top: 0;
     height: 44px;
     line-height: 44px;
-    position: fixed;
+    position: absolute;
 }
 
 #header {
@@ -2762,8 +2762,8 @@ button:disabled,
     position: fixed;
     right: 0;
     top: 0;
-    background: #c9c9e0;
-    color: #daefe3;
+    background: #050557;
+    color: #dadeef;
     height: 100%;
     max-width: 80%;
     width: 20em;
@@ -2781,8 +2781,8 @@ button:disabled,
 }
 
 #navPanel a:not(.close) {
-    border-top: solid 1px #8dcca9;
-    color: #daefe3;
+    border-top: solid 1px #3b0edd;
+    color: #dae2ef;
     font-weight: 600;
     display: block;
     padding: 0.75em 0;
